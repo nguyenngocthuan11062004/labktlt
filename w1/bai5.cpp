@@ -2,7 +2,7 @@
 // Created by nguye on 10/23/2024.
 //
 
-#include "bai5.h"
+#include "../bai5.h"
 #include<stdio.h>
 double* maximum(double* a, int size){
     double *max;

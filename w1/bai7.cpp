@@ -2,7 +2,7 @@
 // Created by nguye on 10/23/2024.
 //
 
-#include "bai7.h"
+#include "../bai7.h"
 #include <stdio.h>
 #include <stdlib.h>
 int *a;

@@ -2,7 +2,7 @@
 // Created by nguye on 10/23/2024.
 //
 
-#include "bai6.h"
+#include "../bai6.h"
 void reversearray(int arr[], int size){
     int l = 0, r = size - 1, tmp;
     while (l<r) {
